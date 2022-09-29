@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
         return -1;
     }
     int remove_return = remove(argv[2]); // if file exist return 0 else -1
-    printf("remove_return: %d\n", remove_return);
+//    printf("remove_return: %d\n", remove_return);
     int FD1 = open(argv[1], O_RDONLY);
     int FD2 = open(argv[2], O_CREAT | O_WRONLY);
     char buf[100];
