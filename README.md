@@ -12,7 +12,7 @@
 ![Copy Utility](https://user-images.githubusercontent.com/67025780/193007926-53f0980e-190c-46ff-b7ba-e559fc9bba04.png)
 
 
-> Remove Utility
+> Move Utility
 
 ![Remove Utility](https://user-images.githubusercontent.com/67025780/193007984-80354fba-5de1-4866-9073-5b8690da7767.png)
 
