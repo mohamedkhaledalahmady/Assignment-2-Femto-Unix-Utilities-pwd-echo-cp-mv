@@ -1,4 +1,4 @@
-# Assignment-2-Femto-Unix-Utilities-pwd-echo-cp-mv-
+# Assignment-2-Femto-Unix-Utilities-pwd-echo-cp-mv
 > PWD Utility
 
 ![PWD Utility](https://user-images.githubusercontent.com/67025780/193008235-fd6ca526-b35d-4120-9dfd-cd430df532fe.png)
